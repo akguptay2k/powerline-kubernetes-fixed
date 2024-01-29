@@ -18,7 +18,7 @@ The Kubernetes segment requires kubectl and official [kubernetes Python API](htt
 Installing the Kubernetes segment can be done with `pip`:
 
 ```
-$ pip install powerline-kubernetes
+$ pip install powerline-kubernetes-fixed
 ```
 
 The Kubernetes segment uses a couple of custom highlight groups. You'll need to define those groups in your colorscheme, for example in `.config/powerline/colorschemes/default.json`:
